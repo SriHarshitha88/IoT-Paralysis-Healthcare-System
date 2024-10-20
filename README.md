@@ -29,7 +29,7 @@ The system consists of the following modules:
 3. **Alert Module**: When the patient's vitals exceed defined thresholds, the GSM module sends an emergency SMS and the buzzer sounds an alarm.
 4. **Notification System**: Sends real-time SMS alerts to caregivers when abnormal readings are detected.
 
-![System Architecture](images/Block Diagram.png)
+![System Architecture](images/Block-Diagram.png)
 
 ## How It Works
 1. The system continuously reads the patient’s vital signs (temperature and heart rate).
