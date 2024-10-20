@@ -1,4 +1,3 @@
-# IoT-Paralysis-Healthcare-System
 # IoT-Based Paralysis Patient Healthcare System
 
 ## Overview
